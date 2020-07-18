@@ -1,0 +1,13 @@
+C:\Users\DEGER\source\repos\C#\Fundamentals\Application1\bin\Debug\netcoreapp3.1\Application1.exe
+C:\Users\DEGER\source\repos\C#\Fundamentals\Application1\bin\Debug\netcoreapp3.1\Application1.deps.json
+C:\Users\DEGER\source\repos\C#\Fundamentals\Application1\bin\Debug\netcoreapp3.1\Application1.runtimeconfig.json
+C:\Users\DEGER\source\repos\C#\Fundamentals\Application1\bin\Debug\netcoreapp3.1\Application1.runtimeconfig.dev.json
+C:\Users\DEGER\source\repos\C#\Fundamentals\Application1\bin\Debug\netcoreapp3.1\Application1.dll
+C:\Users\DEGER\source\repos\C#\Fundamentals\Application1\bin\Debug\netcoreapp3.1\Application1.pdb
+C:\Users\DEGER\source\repos\C#\Fundamentals\Application1\obj\Debug\netcoreapp3.1\Application1.csprojAssemblyReference.cache
+C:\Users\DEGER\source\repos\C#\Fundamentals\Application1\obj\Debug\netcoreapp3.1\Application1.AssemblyInfoInputs.cache
+C:\Users\DEGER\source\repos\C#\Fundamentals\Application1\obj\Debug\netcoreapp3.1\Application1.AssemblyInfo.cs
+C:\Users\DEGER\source\repos\C#\Fundamentals\Application1\obj\Debug\netcoreapp3.1\Application1.csproj.CoreCompileInputs.cache
+C:\Users\DEGER\source\repos\C#\Fundamentals\Application1\obj\Debug\netcoreapp3.1\Application1.dll
+C:\Users\DEGER\source\repos\C#\Fundamentals\Application1\obj\Debug\netcoreapp3.1\Application1.pdb
+C:\Users\DEGER\source\repos\C#\Fundamentals\Application1\obj\Debug\netcoreapp3.1\Application1.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\DEGER\source\repos\C#\Fundamentals\List\bin\Debug\netcoreapp3.1\List.exe
+C:\Users\DEGER\source\repos\C#\Fundamentals\List\bin\Debug\netcoreapp3.1\List.deps.json
+C:\Users\DEGER\source\repos\C#\Fundamentals\List\bin\Debug\netcoreapp3.1\List.runtimeconfig.json
+C:\Users\DEGER\source\repos\C#\Fundamentals\List\bin\Debug\netcoreapp3.1\List.runtimeconfig.dev.json
+C:\Users\DEGER\source\repos\C#\Fundamentals\List\bin\Debug\netcoreapp3.1\List.dll
+C:\Users\DEGER\source\repos\C#\Fundamentals\List\bin\Debug\netcoreapp3.1\List.pdb
+C:\Users\DEGER\source\repos\C#\Fundamentals\List\obj\Debug\netcoreapp3.1\List.AssemblyInfoInputs.cache
+C:\Users\DEGER\source\repos\C#\Fundamentals\List\obj\Debug\netcoreapp3.1\List.AssemblyInfo.cs
+C:\Users\DEGER\source\repos\C#\Fundamentals\List\obj\Debug\netcoreapp3.1\List.csproj.CoreCompileInputs.cache
+C:\Users\DEGER\source\repos\C#\Fundamentals\List\obj\Debug\netcoreapp3.1\List.dll
+C:\Users\DEGER\source\repos\C#\Fundamentals\List\obj\Debug\netcoreapp3.1\List.pdb
+C:\Users\DEGER\source\repos\C#\Fundamentals\List\obj\Debug\netcoreapp3.1\List.genruntimeconfig.cache
+C:\Users\DEGER\source\repos\C#\Fundamentals\List\obj\Debug\netcoreapp3.1\List.csprojAssemblyReference.cache

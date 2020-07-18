@@ -1,0 +1,12 @@
+C:\Users\DEGER\source\repos\C#\Fundamentals\Array\bin\Debug\netcoreapp3.1\Array.exe
+C:\Users\DEGER\source\repos\C#\Fundamentals\Array\bin\Debug\netcoreapp3.1\Array.deps.json
+C:\Users\DEGER\source\repos\C#\Fundamentals\Array\bin\Debug\netcoreapp3.1\Array.runtimeconfig.json
+C:\Users\DEGER\source\repos\C#\Fundamentals\Array\bin\Debug\netcoreapp3.1\Array.runtimeconfig.dev.json
+C:\Users\DEGER\source\repos\C#\Fundamentals\Array\bin\Debug\netcoreapp3.1\Array.dll
+C:\Users\DEGER\source\repos\C#\Fundamentals\Array\bin\Debug\netcoreapp3.1\Array.pdb
+C:\Users\DEGER\source\repos\C#\Fundamentals\Array\obj\Debug\netcoreapp3.1\Array.AssemblyInfoInputs.cache
+C:\Users\DEGER\source\repos\C#\Fundamentals\Array\obj\Debug\netcoreapp3.1\Array.AssemblyInfo.cs
+C:\Users\DEGER\source\repos\C#\Fundamentals\Array\obj\Debug\netcoreapp3.1\Array.csproj.CoreCompileInputs.cache
+C:\Users\DEGER\source\repos\C#\Fundamentals\Array\obj\Debug\netcoreapp3.1\Array.dll
+C:\Users\DEGER\source\repos\C#\Fundamentals\Array\obj\Debug\netcoreapp3.1\Array.pdb
+C:\Users\DEGER\source\repos\C#\Fundamentals\Array\obj\Debug\netcoreapp3.1\Array.genruntimeconfig.cache

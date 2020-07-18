@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DEGER\\source\\repos\\C#\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {}
+    "C:\\Users\\DEGER\\source\\repos\\C#\\Fundamentals\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DEGER\\source\\repos\\C#\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {
+    "C:\\Users\\DEGER\\source\\repos\\C#\\Fundamentals\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DEGER\\source\\repos\\C#\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
-        "projectName": "Fundamentals",
-        "projectPath": "C:\\Users\\DEGER\\source\\repos\\C#\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\DEGER\\source\\repos\\C#\\Fundamentals\\HelloWorld\\HelloWorld.csproj",
+        "projectName": "HelloWorld",
+        "projectPath": "C:\\Users\\DEGER\\source\\repos\\C#\\Fundamentals\\HelloWorld\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\DEGER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DEGER\\source\\repos\\C#\\HelloWorld\\HelloWorld\\obj\\",
+        "outputPath": "C:\\Users\\DEGER\\source\\repos\\C#\\Fundamentals\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DEGER\\AppData\\Roaming\\NuGet\\NuGet.Config",

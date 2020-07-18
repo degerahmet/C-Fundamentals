@@ -1,0 +1,13 @@
+C:\Users\DEGER\source\repos\C#\Fundamentals\foreach\obj\Debug\netcoreapp3.1\foreach.csprojAssemblyReference.cache
+C:\Users\DEGER\source\repos\C#\Fundamentals\foreach\obj\Debug\netcoreapp3.1\foreach.AssemblyInfoInputs.cache
+C:\Users\DEGER\source\repos\C#\Fundamentals\foreach\obj\Debug\netcoreapp3.1\foreach.AssemblyInfo.cs
+C:\Users\DEGER\source\repos\C#\Fundamentals\foreach\obj\Debug\netcoreapp3.1\foreach.csproj.CoreCompileInputs.cache
+C:\Users\DEGER\source\repos\C#\Fundamentals\foreach\bin\Debug\netcoreapp3.1\foreach.exe
+C:\Users\DEGER\source\repos\C#\Fundamentals\foreach\bin\Debug\netcoreapp3.1\foreach.deps.json
+C:\Users\DEGER\source\repos\C#\Fundamentals\foreach\bin\Debug\netcoreapp3.1\foreach.runtimeconfig.json
+C:\Users\DEGER\source\repos\C#\Fundamentals\foreach\bin\Debug\netcoreapp3.1\foreach.runtimeconfig.dev.json
+C:\Users\DEGER\source\repos\C#\Fundamentals\foreach\bin\Debug\netcoreapp3.1\foreach.dll
+C:\Users\DEGER\source\repos\C#\Fundamentals\foreach\bin\Debug\netcoreapp3.1\foreach.pdb
+C:\Users\DEGER\source\repos\C#\Fundamentals\foreach\obj\Debug\netcoreapp3.1\foreach.dll
+C:\Users\DEGER\source\repos\C#\Fundamentals\foreach\obj\Debug\netcoreapp3.1\foreach.pdb
+C:\Users\DEGER\source\repos\C#\Fundamentals\foreach\obj\Debug\netcoreapp3.1\foreach.genruntimeconfig.cache

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hOFB8jkprc7K5jL0I6OMWgu971qQvfHwL+Jf5nCGcYwLRXhx9m7vqoV8axhRLUp7p3MZ5fYDOnO3FyitIRW45w==",
+  "dgSpecHash": "6Pwu5rF+3IaCu+gLZFE3g1b0tLPSHlEkzguC5LXdoCbW0Vhn6KTcpPqm6RrRfimU2CkU0LNR4FkTos6EjODvZg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DEGER\\source\\repos\\C#\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+  "projectFilePath": "C:\\Users\\DEGER\\source\\repos\\C#\\Fundamentals\\HelloWorld\\HelloWorld.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
